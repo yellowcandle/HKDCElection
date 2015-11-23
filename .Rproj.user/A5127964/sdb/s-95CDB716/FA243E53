@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1448295620380.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FA243E53",
+    "lastKnownWriteTime" : 21392300099829876,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "DCPSAddress",
+        "contentUrl" : "content?title=DCPSAddress&file=bb4b9214849d44ce88d48ff11f07a8e0.htm",
+        "displayedObservations" : "495",
+        "displayedVariables" : 5,
+        "totalObservations" : "495",
+        "variables" : "5"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

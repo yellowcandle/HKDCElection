@@ -1,0 +1,17 @@
+{
+    "contents" : "library(\"ggmap\")\nDCPSAddress <- read.csv(\"DCPSAddress.csv\", stringsAsFactors=0) ## read csv of DC polling station info\ndf <- geocode(DCPSAddress$PSaddress, source=\"google\") ## geocode\nggplot(df, aes(df$lon, df$lat)) + geom_point() + geom_text(aes(label=DCPSAddress$Code))",
+    "created" : 1448294779057.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4293549577",
+    "id" : "E16CE708",
+    "lastKnownWriteTime" : 1448298049,
+    "path" : "~/GitHub/HKDCElection/geocode.R",
+    "project_path" : "geocode.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

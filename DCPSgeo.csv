@@ -1,0 +1,496 @@
+"CCode","CName","Code","PSname","PSaddress","lon","lat"
+"A01","Chung Wan","A0101","Joint Professional Centre","Unit 1, G/F, The Center, 99 Queen's Road Central, Central, Hong Kong",114.1547235,22.2846159
+"A01","Chung Wan","A0102","Hong Kong Visual Arts Centre","4/F, 7A Kennedy Road, Central, Hong Kong",114.1593711,22.2767416
+"A02","Mid Levels East","A0201","Raimondi College","2 Robinson Road, Hong Kong",114.1534215,22.2783056
+"A03","Castle Road","A0301","Hong Kong True Light Kindergarten (Caine Road)","G/F-2/F, 75 Caine Road, Hong Kong",114.151935,22.2816134
+"A03","Castle Road","A0302","Centre for Food Safety (Hospital Road Office), Food and Environmental Hygiene Department","4 Hospital Road, Hong Kong",114.1470245,22.2838566
+"A04","Peak","A0401","Hong Kong Park Sports Centre","29 Cotton Tree Drive, Central, Hong Kong",114.1593161,22.2772895
+"A04","Peak","A0402","German Swiss International School Peak Campus","Middle Building, German Swiss International School Peak Campus, 22 Guildford Road, The Peak, Hong Kong",114.160906,22.2655664
+"A05","University","A0501","Sai Ying Pun Community Complex Community Hall","3/F, Sai Ying Pun Community Complex, 2 High Street, Sai Ying Pun, Hong Kong",114.1440843,22.284894
+"A06","Kennedy Town & Mount Davis","A0601","HKYWCA Western District Integrated Social Service Centre","Flat A, 1/F, Block 1, Centenary Mansion, 9-15 Victoria Road, Western District, Hong Kong",114.1257545,22.2819131
+"A07","Kwun Lung","A0701","Smithfield Sports Centre","4/F, Smithfield Municipal Services Building, 12K Smithfield, Kennedy Town, Hong Kong",114.1286842,22.2817561
+"A08","Sai Wan","A0801","Kennedy Town Community Complex (Multi-purpose Function Room)","2/F, 12 Rock Hill Street, Kennedy Town, Hong Kong",114.1290947,22.2817956
+"A09","Belcher","A0901","St. James' Settlement Belcher Kindergarten Child Care Centre","The Westwood, 8 Belcher's Street, Western District, Hong Kong",114.1332029,22.2851408
+"A10","Shek Tong Tsui","A1001","Shek Tong Tsui Sports Centre","5/F, Shek Tong Tsui Municipal Services Building, 470 Queen's Road West, Hong Kong",114.136164,22.2855509
+"A11","Sai Ying Pun","A1101","Central and Western / Islands Social Security Field Unit","3/F, Tung Che Commercial Centre, 246 Des Voeux Road West, Hong Kong",114.1416654,22.2877571
+"A11","Sai Ying Pun","A1102","Sun Yat Sen Memorial Park Sports Centre","18 Eastern Street North, Sai Ying Pun, Hong Kong",114.143516,22.2900699
+"A12","Sheung Wan","A1201","Sheung Wan Post Office","1/F, Hong Kong Telecom CSL Tower, 322-324 Des Voeux Road Central, Sheung Wan, Hong Kong",114.150187,22.28676
+"A13","Tung Wah","A1301","San Wui Commercial Society School","1 Kui In Fong, Sheung Wan, Hong Kong",114.1489119,22.283998
+"A13","Tung Wah","A1302","SKH St. Matthew's Primary School","12-20 New Street, Sheung Wan, Hong Kong",114.1466754,22.2857555
+"A14","Centre Street","A1401","Tsung Tsin Mission of Hong Kong Kau Yan Church and Kau Yan School","G/F, 96 Third Street, Sai Ying Pun, Hong Kong",114.1411278,22.2856837
+"A15","Water Street","A1501","Li Sing Primary School","119 High Street, Sai Ying Pun, Hong Kong",114.1398188,22.2853438
+"B01","Hennessy","B0101","Hennessy Road Government Primary School","169 Thomson Road, Wan Chai, Hong Kong",114.1755549,22.277554
+"B02","Oi Kwan","B0201","Tang Shiu Kin Victoria Government Secondary School","5 Oi Kwan Road, Wan Chai, Hong Kong",114.1789084,22.2769571
+"B03","Canal Road","B0301","German Swiss International School Wan Chai Campus (Former: Wanchai School)","30 Oi Kwan Road, Wan Chai, Hong Kong",114.1797891,22.2765084
+"B05","Tin Hau","B0501","The International Montessori School - An IMEF School","62 Tin Hau Temple Road, Tin Hau, Hong Kong",114.193798,22.2845069
+"B05","Tin Hau","B0502","Covered Carpark of Tsuen Wing Lau, Lai Tak Tsuen","Lai Tak Tsuen, 34 Lai Tak Tsuen Road, Tai Hang, Hong Kong",114.1939449,22.2788096
+"B07","Tai Hang","B0701","Wan Chai District Women's Association","Moreton Terrace, Causeway Bay, Hong Kong",114.1890613,22.2795036
+"B08","Jardine's Lookout","B0801","CCC Kung Lee College","17 Tai Hang Drive, Causeway Bay, Hong Kong",114.1952249,22.2744143
+"B09","Broadwood","B0901","Leighton Hill Community Hall","133 Wong Nai Chung Road, Happy Valley, Hong Kong",114.1833041,22.2752981
+"B10","Happy Valley","B1001","Wong Nai Chung Sports Centre","6/F, Wong Nai Chung Municipal Services Building, 2 Yuk Sau Street, Happy Valley, Hong Kong",114.1857846,22.2689666
+"B11","Stubbs Road","B1101","Marymount Secondary School","123 Blue Pool Road, Happy Valley, Hong Kong",114.1903101,22.263556
+"B11","Stubbs Road","B1102","Hong Kong Children & Youth Services Sing Woo Children & Youth Centre","G/F, 20 Kwai Sing Lane, Happy Valley, Hong Kong",114.1867851,22.2673585
+"B12","Southorn","B1201","Wan Chai Activities Centre","LG/F, Wan Chai Market, 258 Queen's Road East, Wan Chai, Hong Kong",114.1736766,22.2750621
+"B13","Tai Fat Hau","B1301","Methodist Centre","2/F, 22 Hennessy Road, Wan Chai, Hong Kong",114.168881,22.2774456
+"C01","Tai Koo Shing West","C0101","Eastern District JPC Club House","Shop P512-513, Hing On Mansion, 5 Tai Yue Avenue, Taikoo Shing, Hong Kong",114.2141005,22.2863034
+"C02","Tai Koo Shing East","C0201","St. Anna Anglo-Chinese Kindergarten","Podium, Nam Hoi Mansion, 2 Tai Wing Avenue, Taikoo Shing, Quarry Bay, Hong Kong",114.2123009,22.2827206
+"C02","Tai Koo Shing East","C0202","Tai Koo Shing Post Office","Shop G1020-1022, G/F, Kam Sing Mansion, 1-3 Tai Fung Avenue, Taikoo Shing, Hong Kong",114.218711,22.286734
+"C03","Lei King Wan","C0301","Sai Wan Ho Health Centre","G/F, 28 Tai Hong Street, Sai Wan Ho, Hong Kong",114.2236851,22.2846477
+"C04","Aldrich Bay","C0401","CCC Kei Wan Primary School (Aldrich Bay)","39 Oi Shun Road, Shau Kei Wan, Hong Kong",114.2259271,22.2814331
+"C05","Shaukeiwan","C0501","Shau Kei Wan Post Office","G/F, Perfect Mount Gardens, 1 Po Man Street, Shau Kei Wan, Hong Kong",114.2286245,22.2788285
+"C06","A Kung Ngam","C0601","Aldrich Bay Government Primary School","1 Oi Lai Street, Shau Kei Wan, Hong Kong",114.2287059,22.2825334
+"C06","A Kung Ngam","C0602","Shau Kei Wan Government Primary School","19 Shau Kei Wan Main Street East, Shau Kei Wan, Hong Kong",114.230957,22.2809335
+"C07","Heng Fa Chuen","C0701","Lingnan Secondary School","Lingnan Secondary School, Hong Kong",114.179954,22.268573
+"C08","Tsui Wan","C0801","SKH Li Fook Hing Secondary School","Tsui Wan Estate, Tsui Wan Street, Chai Wan, Hong Kong",114.2400845,22.268195
+"C10","Siu Sai Wan","C1001","Siu Sai Wan Community Hall","G/F, Siu Sai Wan Complex, 15 Siu Sai Wan Road, Chai Wan, Hong Kong",114.2495465,22.2635945
+"C11","King Yee","C1101","Pui Kiu Primary School","12 Fu Yee Road, Siu Sai Wan, Chai Wan, Hong Kong",114.2500565,22.2641105
+"C12","Wan Tsui","C1201","The Salvation Army Centaline Charity Fund School","9 Wah Ha Street, Chai Wan, Hong Kong",114.2375955,22.2619435
+"C13","Fei Tsui","C1301","Cognitio College (Hong Kong)","4 Sui Man Road, Chai Wan, Hong Kong",114.233572,22.2619756
+"C21","Tanner","C2101","Chan's Creative School (Hong Kong Island)","82 Marble Road, North Point, Hong Kong",114.2027524,22.29201
+"C23","Quarry Bay","C2301","North Point Government Primary School","888 King's Road, Quarry Bay, Hong Kong",114.209445,22.288903
+"C24","Nam Fung","C2401","Quarry Bay Community Hall","G/F, Quarry Bay Community Complex, 1 Greig Road, Quarry Bay, Hong Kong",114.2139985,22.28375
+"C25","Kornhill","C2501","Buddhist Chung Wah Kornhill Primary School","2 Hong Yue Street, Quarry Bay, Hong Kong",114.214099,22.2809541
+"C26","Kornhill Garden","C2601","Taikoo Primary School","1100 King's Road, Quarry Bay, Hong Kong",114.2148049,22.2839235
+"C27","Hing Tung","C2701","Ching Chung Hing Tung Kindergarten","G/F, Hing Cho House, Hing Tung Estate, Shau Kei Wan, Hong Kong",114.219319,22.281554
+"C27","Hing Tung","C2702","Islamic Abu Bakar Chui Memorial Kindergarten","G/F, King Hei House ,Tung Hei Court, Shau Kei Wan, Hong Kong",114.2184424,22.2802091
+"C28","Sai Wan Ho","C2801","Sai Wan Ho Sports Centre","2/F, 111 Shau Kei Wan Road, Sai Wan Ho, Hong Kong",114.2225561,22.2818355
+"C29","Lower Yiu Tung","C2901","The Endeavourers Leung Lee Sau Yu Memorial Primary School","25 Yiu Hing Road, Shau Kei Wan, Hong Kong",114.2269009,22.2765041
+"C29","Lower Yiu Tung","C2902","Shau Kei Wan Kai-fong Welfare Advancement Association Ltd.","103 Nam On Street, Shau Kei Wan, Hong Kong",114.2259551,22.2800285
+"C31","Hing Man","C3101","Lutheran Philip House Hing Man Nursery School","Level 3, Community Building, Hing Man Estate, Chai Wan, Hong Kong",114.2360778,22.2678103
+"C31","Hing Man","C3102","St. James Lutheran Kindergarten","G/F, Cheuk Wah House, Hing Wah (1) Estate, Chai Wan, Hong Kong",114.2350991,22.2622315
+"C32","Lok Hong","C3201","Meng Tak Catholic School","11 Cheung Man Road, Chai Wan, Hong Kong",114.2362581,22.2683459
+"C32","Lok Hong","C3202","Methodist Epworth Village Community Centre, Social Welfare - Epworth Integrated Youth Team (Epworth Base)","4/F, 100 Chai Wan Road, Chai Wan, Hong Kong",114.2332679,22.2683841
+"C33","Tsui Tak","C3301","Chai Wan Maternal and Child Health Centre","Level 2, Government Office, Block 6, New Jade Garden, 233 Chai Wan Road, Chai Wan, Hong Kong",114.2371589,22.2638249
+"C34","Yue Wan","C3401","Yue Wan Community Hall","365 Chai Wan Road, Yue Wan Estate, Chai Wan, Hong Kong",114.241315,22.265102
+"C35","Kai Hiu","C3501","Chinese YMCA of Hong Kong - Chai Wan Centre","Units 1-10, G/F, Sui Lok House, Siu Sai Wan Estate, Chai Wan, Hong Kong",114.2484445,22.2613594
+"C35","Kai Hiu","C3502","Buddhist To Chi Fat She Yeung Tam Yuen Fong Kindergarten","G/F, Hin Tsui House, Kai Tsui Court, Siu Sai Wan, Hong Kong",114.2471155,22.2633485
+"D01","Aberdeen","D0101","Aberdeen Sports Centre","6/F, Aberdeen Municipal Services Building, 203 Aberdeen Main Road, Aberdeen, Hong Kong",114.1544831,22.2493354
+"D03","Ap Lei Chau North","D0301","Ap Lei Chau Sports Centre","3/F, Ap Lei Chau Municipal Services Building, 8 Hung Shing Street, Ap Lei Chau, Hong Kong",114.1554216,22.2445
+"D04","Lei Tung I","D0401","St. Peter's Catholic Primary School","Phase II, Lei Tung Estate, Ap Lei Chau, Hong Kong",114.1565175,22.2409696
+"D05","Lei Tung II","D0501","Lei Tung Community Hall","Lei Tung Estate, Ap Lei Chau, Hong Kong",114.1578885,22.2433743
+"D06","South Horizons East","D0601","Precious Blood Primary School (South Horizons)","355 Ap Lei Chau Bridge Road, South Horizons, Ap Lei Chau, Hong Kong",114.148765,22.243902
+"D07","South Horizons West","D0701","South Horizons Neighbourhood Community Centre","1/F, East Commercial Block, South Horizons, Ap Lei Chau, Hong Kong",114.155837,22.241076
+"D08","Wah Kwai","D0801","Wah Kwai Community Hall","Wah Kwai Estate, Kellett Bay, Hong Kong",114.1391454,22.2509059
+"D09","Wah Fu South","D0901","Caritas Chong Yuet Ming Secondary School","Caritas Chong Yuet Ming Secondary School, Hong Kong",114.135341,22.2528461
+"D10","Wah Fu North","D1001","TWGHs Hok Shan School","5 Wah Lam Path, Hong Kong",114.1383216,22.252558
+"D11","Pokfulam","D1101","Sassoon Road Assembly Hall","6 Sassoon Road, Hong Kong",114.1298709,22.2696132
+"D11","Pokfulam","D1102","Playground of Upper Baguio Villa","555 Victoria Road, Hong Kong",114.132689,22.2624431
+"D11","Pokfulam","D1103","Cyberport Post Office","100 Cyberport Road, Hong Kong",114.130417,22.259638
+"D12","Chi Fu","D1201","Shine Skills Centre (Pokfulam)","147 Pokfulam Road, Hong Kong",114.1360444,22.260245
+"D12","Chi Fu","D1202","Chi Fu Community Hall","Chi Fu Landmark, Chi Fu Road, Pokfulam, Hong Kong",114.1387645,22.2578326
+"D15","Wong Chuk Hang","D1501","Aberdeen Tennis and Squash Centre","1 Aberdeen Praya Road, Aberdeen, Hong Kong",114.1599731,22.2475175
+"D15","Wong Chuk Hang","D1502","Southern District Elderly Community Centre","South Wave Court, 3 Shum Wan Road, Wong Chuk Hang, Hong Kong",114.165979,22.244486
+"D16","Bays Area","D1601","South Island School","50 Nam Fung Road, Aberdeen, Hong Kong",114.183151,22.253881
+"D16","Bays Area","D1602","Hong Kong International School","6 South Bay Close, Repulse Bay, Hong Kong",114.2011331,22.2389
+"D17","Stanley & Shek O","D1701","Stanley Community Hall","Stanley Municipal Services Building, 6 Stanley Market Road, Hong Kong",114.2122794,22.2191376
+"D17","Stanley & Shek O","D1702","Medical Clinic of Shek O Health Centre","140 Shek O Village, Shek O, Hong Kong",114.2303745,22.2560113
+"E01","Tsim Sha Tsui West","E0101","Yan Oi Tong Chan Cheng Yuk Yee Kindergarten","Room 104, 1/F, 1 Austin Road West, Tsim Sha Tsui, Kowloon",114.162652,22.3045211
+"E02","Jordan South","E0201","Kowloon Park Sports Centre","22 Austin Road, Tsim Sha Tsui, Kowloon",114.1703658,22.3018117
+"E04","Yau Ma Tei South","E0401","Henry G. Leong Yaumatei Community Centre","60 Public Square Street, Yau Ma Tei, Kowloon",114.1697124,22.3098684
+"E05","Charming","E0501","Yaumati Catholic Primary School (Hoi Wang Road)","10 Hoi Wang Road, Yau Ma Tei, Kowloon",114.1639884,22.31331
+"E07","Fu Pak","E0701","PLK Camões Tan Siu Lin Primary School","6 Hoi Ting Road, Yau Ma Tei, Kowloon",114.1653811,22.3150715
+"E08","Olympic","E0801","Hong Kong Society for the Protection of Children BOC Nursery School","11 Hoi Fai Road, Olympian City, Tai Kok Tsui, Kowloon",114.1582566,22.3193091
+"E09","Cherry","E0901","Sharon Lutheran School","18 Cherry Street, Tai Kok Tsui, Kowloon",114.1650761,22.319043
+"E10","Tai Kok Tsui South","E1001","Tai Kok Tsui Catholic Primary School","148 Tai Kok Tsui Road, Kowloon",114.1623518,22.3220616
+"E11","Tai Kok Tsui North","E1101","CCC Kei Tsun Primary School","150 Tai Kok Tsui Road, Kowloon",114.1623665,22.3225
+"E12","Tai Nan","E1201","Fresh Fish Traders' School","33 Sycamore Street, Tai Kok Tsui, Kowloon",114.1640109,22.324683
+"E13","Mong Kok North","E1301","SKH Kei Wing Primary School","23 Lai Chi Kok Road, Kowloon",114.1679674,22.3223294
+"E14","Mong Kok East","E1401","Boundary Street Sports Centre No.1","200 Sai Yee Street, Mong Kok, Kowloon",114.17053,22.326139
+"E16","Yau Ma Tei North","E1601","TWGHs Lo Yu Chik Primary School","51 Pitt Street, Yau Ma Tei, Kowloon",114.1716749,22.3141105
+"E17","East Tsim Sha Tsui & King's Park","E1701","Yaumati Kaifong Association School","80 Public Square Street, Yau Ma Tei, Kowloon",114.1717096,22.3101386
+"E17","East Tsim Sha Tsui & King's Park","E1702","PolyU Hung Hom Bay Campus","8 Hung Lok Road, Hung Hom, Kowloon",114.1848765,22.303307
+"E18","Tsim Sha Tsui Central","E1801","Immigration Department West Kowloon Office","Ground Floor, 28 Kimberley Street, Tsim Sha Tsui, Kowloon",114.173811,22.3004981
+"E19","Jordan North","E1901","Jordan Road Government Primary School","1B Nanking Street, Yau Ma Tei, Kowloon",114.1688575,22.3061211
+"F01","Po Lai","F0101","Po On Road Sports Centre","1/F, Po On Road Municipal Services Building, 325-329 Po On Road, Sham Shui Po, Kowloon",114.1575069,22.3384841
+"F02","Cheung Sha Wan","F0201","Fuk Wing Street Government Primary School","231 Fuk Wing Street, Sham Shui Po, Kowloon",114.1595819,22.3341155
+"F03","Nam Cheong North","F0301","Ying Wa Girls' School","101 Castle Peak Road, Sham Shui Po, Kowloon",114.1623393,22.3335036
+"F04","Shek Kip Mei","F0401","Shek Kip Mei Community Hall","Block 42, Shek Kip Mei Estate, Nam Cheong Street, Sham Shui Po, Kowloon",114.1570475,22.3266539
+"F05","Nam Cheong East","F0501","Tsung Tsin Mission of Hong Kong On Hong Nursery School","Block C, 2/F, Prince Centre, 70 Tai Po Road, Sham Shui Po, Kowloon",114.1672146,22.328556
+"F06","Nam Cheong South","F0601","Shamshuipo Kaifong Welfare Advancement Association","G/F, 88 Yu Chau Street, Sham Shui Po, Kowloon",114.1650409,22.327376
+"F07","Nam Cheong Central","F0701","Pei Ho Street Sports Centre","6/F, Pei Ho Street Municipal Services Building, 333 Ki Lung Street, Sham Shui Po, Kowloon",114.1610129,22.3292745
+"F08","Nam Cheong West","F0801","Nam Cheong District Community Centre","1 Cheong San Lane, Sham Shui Po, Kowloon",114.1590318,22.3261186
+"F09","Fu Cheong","F0901","Ying Wa College","1 Ying Wa Street, Sham Shui Po, Kowloon",114.1530348,22.330339
+"F10","Lai Kok","F1001","Lai Kok Community Hall","Lai Kok Estate, Cheung Sha Wan, Kowloon",114.156684,22.334119
+"F11","Fortune","F1101","SKH Kei Fook Primary School","555 Cheung Sha Wan Road, Cheung Sha Wan, Kowloon",114.154328,22.3363515
+"F11","Fortune","F1102","Sham Shui Po Government Primary School","101 Sham Mong Road, Sham Shui Po, Kowloon",114.1478145,22.3333221
+"F12","Lai Chi Kok South","F1201","SKH St. Mary's Church Mok Hing Yiu College","1 Hoi Lai Street, Sham Shui Po, Kowloon",114.1479561,22.3314185
+"F13","Mei Foo South","F1301","Mei Foo Sun Chuen Community Centre","38 Broadway, Stage 2, Mei Foo Sun Chuen, Kowloon",114.1374279,22.336401
+"F14","Mei Foo Central","F1401","POH Mei Foo Lai Wan Kaifong Association Mr. and Mrs. Leung Chi Chim Elderly Health Support and Learning Centre","8 Lai Wan Rd, Kowloon",114.137958,22.3378993
+"F15","Mei Foo North","F1501","Lai Chi Kok Park Sports Centre","1 Lai Wan Road, Lai Chi Kok, Kowloon",114.1369,22.340663
+"F16","Lai Chi Kok Central","F1601","Lai Chi Kok Community Hall","G/F, 863 Lai Chi Kok Road, Sham Shui Po, Kowloon",114.147242,22.333964
+"F17","Lai Chi Kok North","F1701","Five Districts Business Welfare Association School","70 Wing Hong Street, Sham Shui Po, Kowloon",114.1546361,22.3409295
+"F18","Un Chau & So Uk","F1801","Cheung Sha Wan Sports Centre","J/O Hing Wah Street and Cheung Sha Wan Road, Kowloon",114.1535167,22.3373947
+"F19","Lei Cheng Uk","F1901","Cheung Sha Wan Community Centre","55 Fat Tseung Street, Cheung Sha Wan, Kowloon",114.1586951,22.3400225
+"F20","Ha Pak Tin","F2001","Pak Tin Community Hall","Pak Tin Estate, Pak Tin Street, Shek Kip Mei, Kowloon",114.165349,22.3376695
+"F21","Yau Yat Tsuen","F2101","Our Lady of The Rosary College","22 Rose Street, Yau Yat Chuen, Kowloon",114.1726381,22.3330251
+"F22","Nam Shan, Tai Hang Tung & Tai Hang Sai","F2201","Tai Hang Tung Community Centre","17 Tong Yam Street, Tai Hang Tung, Kowloon",114.1702115,22.3304636
+"F23","Lung Ping & Sheung Pak Tin","F2301","Pak Tin Catholic Primary School","Pak Tin Estate, Sham Shui Po, Kowloon",114.165349,22.3376695
+"F23","Lung Ping & Sheung Pak Tin","F2302","Chak On Centre, City University of Hong Kong","Chak On Estate, Sham Shui Po, Kowloon",114.164986,22.340516
+"G01","Ma Tau Wai","G0101","Ma Tau Chung Government Primary School","1 Fuk Cheung Street, To Kwa Wan, Kowloon",114.1867214,22.3245539
+"G02","Ma Hang Chung","G0201","To Kwa Wan Sports Centre","66 Ha Heung Road, To Kwa Wan, Kowloon",114.1902874,22.3188228
+"G03","Ma Tau Kok","G0301","PLK Lam Man Chan English Primary School","24 Sheung Heung Road, To Kwa Wan, Kowloon",114.1881964,22.318579
+"G04","Lok Man","G0401","St. Eugene de Mazenod Oblate Primary School","24 Tin Kwong Road,To Kwa Wan, Kowloon",114.1860699,22.319782
+"G05","Sheung Lok","G0501","St. Monica's Kindergarten","G/F, Kwun Hei Court, 3 Sheung Lok Street, Homantin South, Kowloon",114.1832115,22.3144515
+"G05","Sheung Lok","G0502","YMMSS Homantin Integrated Centre for Youth Development","G/F, Tim Man House, Homantin Estate, Homantin, Kowloon",114.1822181,22.3155183
+"G06","Ho Man Tin","G0601","Yu Chun Keung Memorial College","Man Fuk Road, Homantin, Kowloon",114.1781719,22.3193961
+"G06","Ho Man Tin","G0602","Homantin Government Secondary School","8 Perth Street, Homantin, Kowloon",114.1803609,22.3210809
+"G07","Kadoorie","G0701","Caritas Community Centre - Kowloon","256A Prince Edward Road West, Kowloon",114.1778011,22.326058
+"G07","Kadoorie","G0702","Kowloon Chamber of Commerce","2 Liberty Avenue, Homantin, Kowloon",114.174321,22.318491
+"G10","Lung Shing","G1001","Kowloon City Sports Centre","3/F, Kowloon City Municipal Services Building, 100 Nga Tsin Wai Road, Kowloon City, Kowloon",114.1890319,22.3295171
+"G11","Sung Wong Toi","G1101","Holy Trinity Primary School","57 Fu Ning Street, Kowloon City, Kowloon",114.1885531,22.325137
+"G12","Kai Tak North","G1201","PLK Wan Lam May Yin Shirley Neighborhood Elderly Centre","Flat A206, 2/F, Ching Long Shopping Centre, 12 Muk Hung Street, Kai Tak, Kowloon",114.2038384,22.3321986
+"G13","Kai Tak South","G1301","Buddhist Mr & Mrs Chan Chart Man Kindergarten","Tak Long Estate, Kai Tak, Kowloon",114.2042274,22.3288404
+"G14","Hoi Sham","G1401","SKH Holy Carpenter Primary School","14 Kwei Chow Street, To Kwa Wan, Kowloon",114.1927804,22.3162488
+"G15","To Kwa Wan North","G1501","To Kwa Wan Complex Indoor Games Room","2/F, To Kwa Wan Market & Government Offices, 165 Ma Tau Wai Road, To Kwa Wan, Kowloon",114.1703545,22.3095361
+"G16","To Kwa Wan South","G1601","CCC Kei To Secondary School","28 Sung On Street, To Kwa Wan, Kowloon",114.1904109,22.3135079
+"G17","Hok Yuen Laguna Verde","G1701","POH Mrs Yam Wing Yin Kindergarten Day Nursery","G/F, Tower 23, Laguna Verde, Hung Hom, Kowloon",114.1897721,22.3093155
+"G17","Hok Yuen Laguna Verde","G1702","Hung Hom Community Hall","UG/F, Kowloon City Government Offices, 42 Bailey Street, Hung Hom, Kowloon",114.1897405,22.3119844
+"G18","Whampoa East","G1801","GCE Past Students' Association Whampoa Primary School","30 Tak On Street, Whampoa Garden, Hung Hom, Kowloon",114.191428,22.303461
+"G19","Whampoa West","G1901","SKH Fung Kei Millennium Primary School","2 Tak Ting Street, Whampoa Garden, Hung Hom, Kowloon",114.191319,22.3043625
+"G20","Hung Hom Bay","G2001","SKH Holy Carpenter Secondary School","10 Tai Wan Road, Hung Hom, Kowloon",114.1880191,22.3075814
+"G21","Hung Hom","G2101","Hung Hom Municipal Services Building Sports Centre","3/F, Hung Hom Municipal Services Building, 11 Ma Tau Wai Road, Hung Hom, Kowloon",114.1873966,22.3073471
+"G23","Oi Man","G2301","Ho Man Tin Sports Centre","1 Chung Yee Street, Homantin, Kowloon",114.181075,22.3117701
+"G24","Oi Chun","G2401","Martha Boss Lutheran Community Centre","1/F, 89 Chung Hau Street, Homantin, Kowloon",114.179297,22.3162725
+"H01","Lung Tsui","H0101","Wong Tai Sin Community Centre","104 Ching Tak Street, Wong Tai Sin, Kowloon",114.1943055,22.3409395
+"H02","Lung Ha","H0201","Wong Tai Sin Government Primary School","100 Ching Tak Street, Wong Tai Sin, Kowloon",114.1934376,22.340925
+"H03","Lung Sheung","H0301","Lung Cheung Government Secondary School","1 Ma Chai Hang Road, Wong Tai Sin, Kowloon",114.1900951,22.342838
+"H04","Fung Wong","H0401","Sik Sik Yuen Clinic","G/F, Unit C, Sik Sik Yuen Social Services Complex, 38 Fung Tak Road, Wong Tai Sin, Kowloon",114.197491,22.3429995
+"H05","Fung Tak","H0501","Fung Tak Estate Community Centre","Fung Tak Estate, 111 Fung Tak Road, Diamond Hill, Kowloon",114.2012565,22.3443341
+"H06","Lung Sing","H0601","The Boys' & Girls' Clubs Association of Hong Kong Jockey Club Tsz Wan Shan Children & Youth Integrated Services Centre","Lung Poon Court, Diamond Hill, Kowloon",114.2012097,22.3414846
+"H06","Lung Sing","H0602","Chun Tok School","171 Hammer Hill Road, Diamond Hill, Kowloon",114.2070891,22.340254
+"H07","San Po Kong","H0701","PLK Stanley Ho Sau Nan Primary School","30 Hong Keung Street, San Po Kong, Kowloon",114.1967146,22.3352396
+"H07","San Po Kong","H0702","Canossa Primary School (San Po Kong)","9 Choi Yee Lane, San Po Kong, Kowloon",114.2018124,22.337021
+"H08","Tung Tau","H0801","Tung Tau Community Centre","26 Lok Sin Road, Wong Tai Sin, Kowloon",114.1934394,22.3319891
+"H09","Tung Mei","H0901","SKH Kei Tak Primary School","Tai Shing Street, Wong Tai Sin, Kowloon",114.193752,22.337687
+"H10","Lok Fu","H1001","Morse Park Sports Centre","40 Fung Mo Street, Wong Tai Sin, Kowloon",114.1900689,22.3383382
+"H12","Tin Keung","H1201","Price Memorial Catholic Primary School","Tin Ma Court, 53 Chuk Yuen Road, Wong Tai Sin, Kowloon",114.1905933,22.3430815
+"H12","Tin Keung","H1202","Kit Sam Lam Bing Yim Secondary School","9 Fu Mei Street, Wang Tau Hom, Kowloon",114.1852266,22.3410195
+"H13","Tsui Chuk & Pang Ching","H1301","Ho Tak Kindergarten (Sponsored by Sik Sik Yuen)","G/F, Chung Yuen House, Chuk Yuen North Estate, Wong Tai Sin, Kowloon",114.191706,22.345713
+"H13","Tsui Chuk & Pang Ching","H1302","Level 5, Tsui Chuk Commercial Complex","Level 5, Tsui Chuk Commercial Complex, Tsui Chuk Garden, 8 Chui Chuk Street, Wong Tai Sin, Kowloon",114.1867267,22.3466156
+"H14","Chuk Yuen South","H1401","Chuk Yuen Estate Community Centre","Chuk Yuen South Estate, 11 Chuk Yuen Road, Wong Tai Sin, Kowloon",114.1939005,22.3447696
+"H14","Chuk Yuen South","H1402","Baptist Rainbow Primary School","Chuk Yuen South Estate, Wong Tai Sin, Kowloon",114.194352,22.344904
+"H15","Chuk Yuen North","H1501","Chuk Yuen Sports Centre","Chuk Yuen North Estate, 10 Chuk Yuen Road, Wong Tai Sin, Kowloon",114.1935588,22.3454868
+"H16","Tsz Wan West","H1601","Ho Lap Primary School (Sponsored by Sik Sik Yuen)","Tsz Lok Estate, Tsz Wan Shan, Kowloon",114.19909,22.347143
+"H17","Ching Oi","H1701","Chiu Ha Kindergarten","Kindergarten Block, Stage 3, Tsz Oi Court, 120 Tsz Wan Shan Road, Tsz Wan Shan, Kowloon",114.1974836,22.3501981
+"H19","Tsz Wan East","H1901","Tak Oi Secondary School","8 Tsz Wan Shan Road, Tsz Wan Shan, Kowloon",114.2046266,22.3474745
+"H20","King Fu","H2001","Ho Fu Neighbourhood Centre for Senior Citizens (Sponsored by Sik Sik Yuen)","Fu Shun House, Fu Shan Estate, Wong Tai Sin, Kowloon",114.2091346,22.3426924
+"H20","King Fu","H2002","Hong Kong Playground Association Jockey Club King Fu Integrated Service Centre For Children & Youth","Fu Shun House, Fu Shan Estate, Wong Tai Sin, Kowloon",114.2091346,22.3426924
+"H21","Choi Wan East","H2101","PLK Anita L. L. Chan (Centenary) School","Choi Wan Estate, 55 Clear Water Bay Road, Kowloon",114.2168715,22.333227
+"H22","Choi Wan South","H2201","Hong Kong Kindergarten Association Pre-School","G/F, Chi Siu House, Choi Wan Estate, Kowloon",114.2134069,22.3331591
+"H23","Choi Wan West","H2301","Choi Wan Estate Community Centre","38 Choi Fung Path, Choi Wan (I) Estate, Ngau Chi Wan, Kowloon",114.213835,22.3350745
+"H24","Chi Choi","H2401","Buddhist Hung Sean Chau Memorial College","10 Ping Ting Road, Hammer Hill, Kowloon",114.212576,22.335826
+"H24","Chi Choi","H2402","CCC Kei Wa Primary School","3 Wong Kuk Avenue, Choi Hung Estate, Wong Tai Sin, Kowloon",114.2068376,22.335823
+"H25","Choi Hung","H2501","SKH St. Benedict's School","11 Lam Chung Avenue, Choi Hung Estate, Kowloon",114.206025,22.3353319
+"J03","Kai Yip","J0301","Kai Yip Community Hall","Kai Yip Estate, Kowloon Bay, Kowloon",114.208354,22.32868
+"J04","Lai Ching","J0401","Yan Chai Hospital Law Chan Chor Si College","10 Kai Lai Road, Kowloon Bay, Kowloon",114.207877,22.328076
+"J07","Jordan Valley","J0701","Hong Kong Christian Service Bliss District Elderly Community Centre","G/F, Choi Lok House, Choi Fook Estate, Kwun Tong, Kowloon",114.2168985,22.3287641
+"J07","Jordan Valley","J0702","Choi Ha Estate Kit Sam Kindergarten","Choi Ha Estate, Ngau Tau Kok, Kowloon",114.217627,22.326465
+"J08","Shun Tin","J0801","Ning Po No.2 College","9 Shun On Road, Shun Tin Estate, Kwun Tong, Kowloon",114.2249295,22.3259155
+"J10","On Lee","J1001","Carmel Leung Sing Tak School","Shun On Estate, Kwun Tong, Kowloon",114.226975,22.328874
+"J11","Po Tat","J1101","Sau Mau Ping Catholic Primary School","Po Tat Estate, Sau Mau Ping, Kwun Tong, Kowloon",114.237658,22.318242
+"J13","Hiu Lai","J1301","Chan Mung Yan Lutheran Kindergarten","G/F, Hiu On House, Hiu Lai Court, Sau Mau Ping, Kwun Tong, Kowloon",114.22981,22.3201965
+"J13","Hiu Lai","J1302","CASMP Chen Lee Wing Tsing Kindergarten","G/F, Hiu Tin House, Hiu Lai Court, Sau Mau Ping, Kwun Tong, Kowloon",114.2288849,22.321727
+"J14","Sau Mau Ping South","J1401","Kwun Tong Government Primary School (Sau Ming Road)","130 Sau Ming Road, Sau Mau Ping, Kwun Tong, Kowloon",114.2340265,22.315011
+"J14","Sau Mau Ping South","J1402","CNEC Kei Shek Church","G/F, Carpark B, Po Tat Estate, Sau Mau Ping, Kowloon",114.2362955,22.3173665
+"J16","Hing Tin","J1601","St. Edward's Catholic Primary School","8 Hing Tin Street, Lam Tin, Kowloon",114.2375511,22.3115264
+"J17","Lam Tin","J1701","St. Paul's School (Lam Tin)","10 On Tin Street, Lam Tin, Kowloon",114.2373055,22.3088665
+"J17","Lam Tin","J1702","Fei Ngan Kindergarten","Roof Top, Carpark, Hong Yat Court, Lam Tin, Kowloon",114.235422,22.310244
+"J19","Ping Tin","J1901","SKH Lee Shiu Keung Primary School","School No.1, Ping Tin Estate, On Tin Street, Lam Tin, Kowloon",114.2376459,22.3075478
+"J20","Pak Nga","J2001","SKH Kindly Light Church Holy Carpenter Kindergarten","Level 7, Carpark Building, Hong Pak Court, Lam Tin, Kowloon",114.2128675,22.2810895
+"J22","Yau Lai","J2201","SKH Yautong Kei Hin Primary School","23 Yau Tong Road, Yau Tong, Kowloon",114.2351822,22.3002645
+"J23","Chui Cheung","J2301","Hong Kong Chinese Women's Club Dr. Ellen Li Learning Centre","Unit 2, Carpark Level 3, Ko Cheung Court, Yau Tong, Kowloon",114.2409055,22.2959665
+"J25","Laguna City","J2501","Sai Tso Wan Neighbourhood Community Centre","81 Cha Kwo Ling Road, Yau Tong, Kowloon",114.2289409,22.3072255
+"J26","King Tin","J2601","Lam Tin (West) Estate Community Centre","71 Kai Tin Road, Lam Tin, Kowloon",114.2338276,22.3089016
+"J27","Tsui Ping","J2701","Our Lady of China Catholic Primary School","Our Lady of China Catholic Primary School, Kwun Tong, Kowloon",114.2304587,22.313022
+"J28","Po Lok","J2801","Kwun Tong Maryknoll College","100 Tsui Ping Road, Kwun Tong, Kowloon",114.2287002,22.3180103
+"J29","Yuet Wah","J2901","Delia Memorial School (Yuet Wah)","19 Yuet Wah Street, Kwun Tong, Kowloon",114.2270846,22.3140474
+"J30","Hip Hong","J3001","Shui Wo Street Sports Centre","8/F, Shui Wo Street Municipal Services Building, 9 Shui Wo Street, Kwun Tong, Kowloon",114.2242705,22.3156875
+"J30","Hip Hong","J3002","Hiu Kwong Street Sports Centre","2 Hiu Kwong Street, Kwun Tong, Kowloon",114.2277395,22.3198041
+"J31","Hong Lok","J3101","Kwun Tong Kung Lok Government Secondary School","90 Kung Lok Road, Kwun Tong, Kowloon",114.222241,22.3181525
+"J32","Ting On","J3201","SKH Kei Hin Primary School","Nam Wah Po Village Tsung Tsin Church, Tai Po, New Territories, HK",114.1655064,22.4423218
+"J33","Upper Ngau Tau Kok Estate","J3301","Kwun Tong Methodist Social Service Ngau Tau Kok Youth Integrated Service Centre","The Central Plaza, Upper Ngau Tau Kok Estate, 189 Ngau Tau Kok Road, Kwun Tong, Kowloon",114.2161414,22.3215761
+"J34","Lower Ngau Tau Kok Estate","J3401","Chun Wah Road Sports Centre","50 Chun Wah Road, Ngau Tau Kok, Kowloon",114.219712,22.323127
+"J34","Lower Ngau Tau Kok Estate","J3402","PLK Koo Bin Kau Lee Day Care Centre for the Elderly","G/F, Kwai Yuet House & Kwai Hin House, Lower Ngau Tau Kok Estate, Kwun Tong, Kowloon",114.1264828,22.3621637
+"J36","Lok Wah North","J3601","SKH Kei Lok Primary School","Lok Wah Estate, Ngau Tau Kok, Kowloon",114.222269,22.321092
+"J37","Lok Wah South","J3701","Lok Wah Estate Community Centre","80 Chun Wah Road, Lok Wah South Estate, Ngau Tau Kok, Kowloon",114.2226355,22.3204915
+"K02","Yeung Uk Road","K0201","Tsuen Wan Catholic Primary School","37-41 Tak Wah Street, Tsuen Wan, New Territories",114.1194929,22.369161
+"K03","Hoi Bun","K0301","Shak Chung Shan Memorial Catholic Primary School","39 Wing Shun Street, Riviera Gardens, Tsuen Wan, New Territories",114.113253,22.3637515
+"K04","Clague Garden","K0401","POCA Wong Siu Ching Secondary School","2 Tai Pa Street, Tsuen Wan, New Territories",114.1103939,22.3713354
+"K06","Discovery Park","K0601","Tsuen King Circuit Sports Centre","38 Mei Wan Street, Tsuen Wan, New Territories",114.1113547,22.3776065
+"K07","Tsuen Wan Centre","K0701","Chai Wan Kok Catholic Primary School","2-10 On Yin Street, Tsuen Wan, New Territories",114.1065224,22.3780914
+"K08","Allway","K0801","CCC Kei Wai Primary School","167-185 Tsuen King Circuit, Tsuen Wan, New Territories",114.1047308,22.3792089
+"K08","Allway","K0802","Chuen Lung Village Office","24C Chuen Lung Village, Route Twisk, Tsuen Wan, New Territories",114.1108005,22.3831874
+"K09","Lai To","K0901","Tsuen Wan Government Primary School","600 Castle Peak Road, Belvedere Garden, Tsuen Wan, New Territories",114.1009659,22.3719506
+"K10","Ting Sham","K1001","Sham Tseng Catholic Primary School","37 Castle Peak Road - Sham Tseng, Tsuen Wan, New Territories",114.0603668,22.3673122
+"K11","Tsuen Wan West","K1101","Hong Kong Baptist Convention Primary School","Belvedere Garden, 2 Lai Shun Road, Tsuen Wan, New Territories",114.100264,22.3707905
+"K11","Tsuen Wan West","K1102","St. Francis Xavier's School, Tsuen Wan","60-64 Ham Tin Street, Tsuen Wan, New Territories",114.1170221,22.3685837
+"K12","Tsuen Wan Rural","K1201","The Yuen Yuen Institute Tsuen Wan West Elderly Neighbourhood Centre","Shop H2, G/F Rhine Garden, 38 Castle Peak Road, Sham Tseng, New Territories",114.0612421,22.3684922
+"K12","Tsuen Wan Rural","K1202","Former Site of Oceanic Kindergarten","D.D.387 Lung Yue Road, Tsing Lung Tau, Tsuen Wan, New Territories",114.0499497,22.3715676
+"K12","Tsuen Wan Rural","K1203","Hongkong Garden Club Ltd.","Hongkong Garden, 100 Castle Peak Road, Tsing Lung Tau, Tsuen Wan, New Territories",114.0435195,22.3616941
+"K13","Ma Wan","K1301","CCC Kei Wai Primary School (Ma Wan)","12 Pak Lam Road, Park Island, Ma Wan, Tsuen Wan, New Territories",114.0597625,22.3508091
+"K14","Luk Yeung","K1401","Wai Tsuen Sports Centre","6 Miu Kong Street, Tsuen Wan, New Territories",114.1224989,22.3723842
+"K15","Lei Muk Shue East","K1501","Lei Muk Shue Community Hall","G/F, Hong Shue House, Lei Muk Shue Estate, Tsuen Wan, New Territories",114.1369715,22.3789035
+"K15","Lei Muk Shue East","K1502","Ho Pui Tsuen Village Office","House No.48B, Ho Pui Tsuen, Kwok Shui Road, Tsuen Wan, New Territories",114.126595,22.3714696
+"K16","Lei Muk Shue West","K1601","Lei Muk Shue Catholic Primary School","Lei Muk Shue Catholic Primary School, Tsuen Wan, New Territories",114.133949,22.3777855
+"K17","Shek Wai Kok","K1701","HKTA YYI Shek Wai Kok Primary School","HKTA YYI Shek Wai Kok Primary School, HK",114.109497,22.396428
+"K18","Cheung Shek","K1801","Tsuen Wan Lutheran School","Cheung Shan Estate, Tsuen Wan, New Territories",114.130866,22.378463
+"K18","Cheung Shek","K1802","Tsuen Wan Public Ho Chuen Yiu Memorial College","Tsuen Wan Public Ho Chuen Yiu Memorial College",114.1261456,22.3759635
+"L01","Tuen Mun Town Centre","L0101","Exhibition Gallery, Tuen Mun Town Hall","1/F, 3 Tuen Hi Road, Tuen Mun, New Territories",113.976763,22.391783
+"L01","Tuen Mun Town Centre","L0102","SKH St. Simon's Lui Ming Choi Secondary School","85, Tuen Mun Heung Sze Wui Road, Tuen Mun, New Territories",113.9743982,22.3972677
+"L02","Siu Chi","L0201","PLK HKTA Yuen Yuen Primary School","26 Tsing Hoi Circuit, Castle Peak Road, Tuen Mun, New Territories",113.9800858,22.3896401
+"L02","Siu Chi","L0202","Yan Oi Tong Madam Lau Wong Fat Primary School","Yan Oi Tong Madam Lau Wong Fat Primary School, Hong Kong",114.109497,22.396428
+"L03","Siu Tsui","L0301","Semple Memorial Secondary School","18 Siu Lun Street, Tuen Mun, New Territories",113.9779777,22.3842099
+"L03","Siu Tsui","L0302","Ching Chung Hau Po Woon Secondary School","21 Hang Fu Street, Tuen Mun, New Territories",113.9725036,22.382713
+"L04","On Ting","L0401","On Ting / Yau Oi Community Centre","On Ting Estate, Tuen Mun, New Territories",113.97538,22.387632
+"L04","On Ting","L0402","SKH St. Peter's Church Castle Peak Siu Lun Court Kindergarten","G/F, Siu Lun Court Shopping Centre, Tuen Mun, New Territories",113.976676,22.384592
+"L05","Yau Oi South","L0501","STFA Tam Pak Yu College","9 Yau Oi Road, Yau Oi Estate, Tuen Mun, New Territories",113.9735611,22.388287
+"L06","Yau Oi North","L0601","Islamic Primary School","2 Oi Tak Lane, Yau Oi Estate, Tuen Mun, New Territories",113.9723034,22.388067
+"L06","Yau Oi North","L0602","YCH Ho Sik Nam Primary School","Area 16, Tuen Mun, New Territories",113.9693601,22.3935072
+"L08","Shan King","L0801","Shan King Community Hall","Shan King Estate, Tuen Mun, New Territories",113.967714,22.399546
+"L10","Hing Tsak","L1001","Tai Hing Sports Centre","38 Tsing Chung Koon Road, Tuen Mun, New Territories",113.9732365,22.403301
+"L11","San Hui","L1101","Yan Oi Tong Woo Chung District Elderly Community Centre","18 Kai Man Path, Tuen Mun, New Territories",113.9759405,22.3964935
+"L11","San Hui","L1102","Tseng Choi Street Community Hall","27 Tseng Choi Street, Tuen Mun, New Territories",113.9773252,22.3999993
+"L12","Sam Shing","L1201","The Salvation Army Sam Shing Chuen Lau Ng Ying School","Sam Shing Estate, Castle Peak Road, Tuen Mun, New Territories",113.978936,22.381712
+"L12","Sam Shing","L1202","Customs and Excise Training School","10 Tai Lam Chung Road, Tuen Mun, New Territories",114.0204094,22.3633639
+"L13","Hanford","L1301","Chung Sing Benevolent Society Mrs Aw Boon Haw Secondary School","20 Siu Lun Street, Tuen Mun, New Territories",113.9785597,22.3840984
+"L13","Hanford","L1302","Immigration Service Institute of Training and Development","Upper Ground Floor, 82 Castle Peak Road, Castle Peak Bay, Tuen Mun, New Territories",113.9861791,22.3760601
+"L13","Hanford","L1303","PLK Women's Welfare Club Western District Fung Lee Pui Yiu Primary School","11 Kwun Tsing Road, So Kwun Wat, Tuen Mun, New Territories",113.9953676,22.3738203
+"L14","Fu Sun","L1401","Community Centre of Sun Tuen Mun Centre","Level 3, Sun Tuen Mun Shopping Centre, 55-65 Lung Mun Road, Tuen Mun, New Territories",113.9643827,22.3812408
+"L15","Yuet Wu","L1501","South Tuen Mun Government Secondary School","218 Wu Shan Road, Tuen Mun, New Territories",113.9691813,22.373364
+"L16","Siu Hei","L1601","LKWFS Lau Tak Yung Memorial Primary School","263 Wu Chui Road, Tuen Mun, New Territories",113.96848,22.373005
+"L17","Wu King","L1701","TWGHs Sun Hoi Directors' College","3 Wu Cheong Street, Wu King Estate, Tuen Mun, New Territories",113.9648541,22.3749092
+"L18","Butterfly","L1801","FDBWA Chow Chin Yau School","Siu Shan Court, Butterfly Estate, Tuen Mun, New Territories",113.961598,22.377113
+"L18","Butterfly","L1802","Butterfly Bay Community Centre","Butterfly Estate, Tuen Mun, New Territories",113.9623041,22.3766578
+"L19","Lok Tsui","L1901","Lutheran Tsang Shing Siu Leun School","Lutheran Tsang Shing Siu Leun School, Hong Kong",114.109497,22.396428
+"L19","Lok Tsui","L1902","Lung Kwu Tan Village Office","1 Pak Long Tsuen, Lung Kwu Tan, Tuen Mun, New Territories",113.9198946,22.3904334
+"L21","San King","L2101","HKRSS Tuen Mun Primary School","Leung King Estate, Tuen Mun, New Territories",113.9638801,22.4076601
+"L22","Leung King","L2201","Leung King Community Centre","Leung King Estate, Tuen Mun, New Territories",113.9638801,22.4076601
+"L23","Tin King","L2301","SRBCEPSA Ho Sau Ki School","SRBCEPSA Ho Sau Ki School, Tuen Mun, New Territories",113.9665177,22.405674
+"L24","Po Tin","L2401","PLK Horizon East Primary School","PLK Horizon East Primary School, Tuen Mun, New Territories",113.966666,22.4112855
+"L24","Po Tin","L2402","Tuen Mun Tsz Tin Tsuen Village Office","93 Tsz Tin Tsuen, Tsz Tin Road, Tuen Mun, New Territories",113.974869,22.4142297
+"L25","Kin Sang","L2501","Kin Sang Community Hall","Kin Sang Estate, Tuen Mun, New Territories",113.971628,22.406346
+"L26","Siu Hong","L2601","Tuen Mun Government Primary School","Siu Hong Court, Tuen Mun, New Territories",113.9784063,22.4142204
+"L27","Prime View","L2701","SKH Mung Yan Primary School","1 King Fung Path, Tuen Mun, New Territories",113.9802427,22.404404
+"L27","Prime View","L2702","Hing Tak School","1 Hing Ping Road, Tuen Mun, New Territories",113.9815545,22.4110394
+"L28","Fu Tai","L2801","Simon and Eleanor Kwok Building, Lingnan University","SEKG09, Simon and Eleanor Kwok Building, Lingnan University, Tuen Mun, New Territories",113.982443,22.410572
+"L28","Fu Tai","L2802","Fuk Hang Tsuen Village Office","Fuk Hang Tsuen Road, Tuen Mun, New Territories",113.9868957,22.4181895
+"L29","Tuen Mun Rural","L2901","Kiu Saw Public School","1A Chung Uk Tsuen, Tuen Mun, New Territories",113.9922435,22.4288515
+"L29","Tuen Mun Rural","L2902","Tuen Mun School","254 Ng Lau Road, Tuen Mun, New Territories",113.9791136,22.4197706
+"L29","Tuen Mun Rural","L2903","Tuen Mun San Tsuen Village Office","57A Tuen Mun San Tsuen, Lam Tei, Tuen Mun, New Territories",113.972655,22.4220576
+"M01","Fung Nin","M0101","Yuen Long Merchants Association Primary School","244 Castle Peak Road, Yuen Long, New Territories",114.023721,22.444123
+"M03","Nam Ping","M0301","Long Ping Community Hall","Long Ping Estate, Yuen Long, New Territories",114.0241777,22.4499073
+"M04","Pek Long","M0401","Yuen Long Long Ping Estate Tung Koon Primary School","Phase 1, Long Ping Estate, Yuen Long, New Territories",114.02154,22.4468664
+"M04","Pek Long","M0402","Cumberland Presbyterian Church Yao Dao Secondary School","28 Hong Yip Street, Area 16, Yuen Long Kau Hui, Yuen Long, New Territories",114.033953,22.44668
+"M05","Yuen Long Centre","M0501","Yuen Long Post Office","Shop B, G/F, 8 Yuen Long Pau Cheung Square, Yuen Long, New Territories",114.029067,22.445715
+"M05","Yuen Long Centre","M0502","Fung Kam Street Sports Centre","20 Fung Yau Street North, Yuen Long, New Territories",114.033038,22.4430161
+"M06","Yuen Lung","M0601","CCC Kei Yuen College","Fung Yau Street East, Yuen Long, New Territories",114.0351727,22.442685
+"M07","Fung Cheung","M0701","Buddhist Wing Yan School","6 Fung Yau Street South, Yuen Long, New Territories",114.0337005,22.441097
+"M13","Ping Shan North","M1301","Wang Chau Village Office","142 Fuk Hing Tsuen, Wang Chau, Yuen Long, New Territories",114.0288886,22.4467901
+"M13","Ping Shan North","M1302","Former Sha Kong Public Luen Yick School","Sha Kong Wai, Ping Shan, Yuen Long, New Territories",114.0125849,22.442068
+"M14","Ha Tsuen","M1401","ELCHK Wing Jan Lutheran Church","Deep Bay Road, Lau Fau Shan, Yuen Long, New Territories",113.9857738,22.4687732
+"M14","Ha Tsuen","M1402","Sik Kong Wai Village Office","56 Sik Kong Wai, Ha Mei Road, Ha Tsuen, Yuen Long, New Territories",113.993138,22.4478312
+"M14","Ha Tsuen","M1403","The Neighbourhood Advice - Action Council Tuen Mun / Yuen Long Rural Village Centre","Shop No.1, G/F, Aster Court Shopping Arcade, 8 Hung Tai Road, Hung Shui Kiu, Yuen Long, New Territories",113.996479,22.434258
+"M15","Tin Shing","M1501","Queen Elizabeth School Old Students' Association Branch Primary School","Area 3, Phase 4, Tin Shui Wai, Yuen Long, New Territories",114.0041996,22.4606419
+"M15","Tin Shing","M1502","Pui Shing Catholic Secondary School","9 Tin Ho Road, Tin Shui Wai, Yuen Long, New Territories",114.0001267,22.4501324
+"M16","Shui Oi","M1601","Tin Shui Community Centre","Tin Shui Estate, Tin Shui Wai, Yuen Long, New Territories",113.998856,22.456996
+"M17","Shui Wah","M1701","TWGHs Yiu Dak Chi Memorial Primary School (Yuen Long)","Estate Primary School, Phase 1, Tin Shui Estate, Tin Shui Wai, Yuen Long, New Territories",114.0041996,22.4606419
+"M18","Chung Wah","M1801","The Jockey Club Eduyoung College","Area 31, Phase 1, Tin Chung Court, Tin Shui Wai, Yuen Long, New Territories",113.9986774,22.46065
+"M18","Chung Wah","M1802","TWGHs Leo Tung-hai Lee Primary School","19 Tin Tan Street, Tin Shui Wai, Yuen Long, New Territories",113.9949791,22.460069
+"M20","Fu Yan","M2001","Xianggang Putonghua Yanxishe Primary School of Science and Creativity","Tin Fu Court, 25 Tin Sau Road, Tin Shui Wai, Yuen Long, New Territories",113.9993191,22.4651291
+"M21","Yat Chak","M2101","Christian Alliance S Y Yeh Memorial Primary School","Tin Chak Estate, Tin Shui Wai, Yuen Long, New Territories",113.99938,22.467869
+"M22","Tin Heng","M2201","STFA Wu Mien Tuen Primary School","Tin Heng Estate, Tin Shui Wai, Yuen Long, New Territories",113.9993804,22.4692244
+"M24","Ching King","M2401","Tin Ching Community Hall","Tin Ching Estate, Tin Wan Road, Tin Shui Wai, Yuen Long, New Territories",114.003826,22.46319
+"M25","Kingswood North","M2501","The Hong Kong Management Association K S Lo College","26 Tin Pak Road, Tin Shui Wai, Yuen Long, New Territories",114.006793,22.4577056
+"M26","Tsz Yau","M2601","BTCFS Yeung Yat Lam Memorial School","6 Tin Pak Road, Tin Shui Wai, Yuen Long, New Territories",114.0068133,22.4541599
+"M27","Yiu Yau","M2701","Tin Shui Wai Government Secondary School","Phase 2, Tin Yiu Estate, Tin Shui Wai, Yuen Long, New Territories",114.0041996,22.4606419
+"M28","Tin Yiu","M2801","Tin Yiu Community Centre","Tin Yiu Estate, Tin Shui Wai, Yuen Long, New Territories",114.005664,22.453526
+"M29","Kingswood South","M2901","Vocational Training Council,Youth College (Tin Shui Wai)","11 Tin Ho Road, Tin Shui Wai, Yuen Long, New Territories",113.999488,22.4501514
+"M29","Kingswood South","M2902","Tin Shui Wai Government Primary School","8 Tin Shui Road, Tin Shui Wai, Yuen Long, New Territories",113.9988472,22.4584297
+"M30","Chung Pak","M3001","HKFYG Lee Shau Kee Primary School","11 Tin Wing Road, Tin Shui Wai, Yuen Long, New Territories",114.0013245,22.4612475
+"M31","Fairview Park","M3101","HKMLC Wong Chan Sook Ying Memorial School","Bauhinia Road East, Fairview Park, Tai Shang Wai, Yuen Long, New Territories",114.0490674,22.472378
+"M32","San Tin","M3201","Tun Yu School","San Tin, Yuen Long, New Territories",114.0696131,22.4950121
+"M32","San Tin","M3202","Temporary Office at the Open Space in front of the intersection of Ha Chuk Yuen Road and Kam Pok Road","Chuk Yuen Tsuen, Castle Peak Road - Tam Mi, Yuen Long, New Territories",114.0362251,22.4443796
+"M34","Pat Heung North","M3401","Toi Shan Public School (Former)","100 Wang Toi Shan Shan Tsuen, Fan Kam Road, Pat Heung, Yuen Long, New Territories",114.0927264,22.4431875
+"M35","Pat Heung South","M3501","Pat Heung Central Primary School (Shek Wu Tong)","168 Shek Wu Tong Tsuen, Kam Sheung Road, Pat Heung, Yuen Long, New Territories",114.0830567,22.428057
+"N01","Luen Wo Hui","N0101","HHCKLA Buddhist Ma Kam Chan Memorial English Secondary School","HHCKLA Buddhist Ma Kam Chan Memorial English Secondary School, Fanling, New Territories, Hong Kong",114.1384766,22.4917369
+"N02","Fanling Town","N0201","Fanling Public School","651 Fanling Village, Fanling, New Territories",114.139824,22.4951629
+"N02","Fanling Town","N0202","Caritas Fanling Chan Chun Ha Secondary School","28 San Wan Road, Fanling, New Territories",114.1424381,22.4914316
+"N03","Cheung Wah","N0301","Cheung Wah Community Hall","Cheung Wah Estate, Fanling, New Territories",114.140036,22.492606
+"N05","Wah Ming","N0501","Fung Kai Liu Yun Sum Memorial School","Wah Ming Estate, Fanling, New Territories",114.1400339,22.4852215
+"N08","Fanling South","N0801","Fanling Government Secondary School","27 Yat Ming Road, Fanling, New Territories",114.1446216,22.4861591
+"N08","Fanling South","N0802","Tin Ka Ping Secondary School","1 Wai Hon Road, Fanling, New Territories",114.1311866,22.4944136
+"N10","Yu Tai","N1001","Elegantia College (Sponsored by Education Convergence)","8 Ching Shing Road, Sheung Shui, New Territories",114.124183,22.4927976
+"N11","Sheung Shui Rural","N1101","Kam Tsin Village Ho Tung School","Kam Tsin Village, Sheung Shui, New Territories",114.111537,22.5020588
+"N11","Sheung Shui Rural","N1102","Tsiu Keng Village Office","Tsiu Keng Lo Wai, Sheung Shui, New Territories",114.1231516,22.5077672
+"N11","Sheung Shui Rural","N1103","Ku Tung Public Oi Wah School","Ho Sheung Heung Road, Kwu Tung Village, Sheung Shui, New Territories",114.1052008,22.5113482
+"N11","Sheung Shui Rural","N1104","Hang Tau Village Office","25 Hang Tau Tsuen, Sheung Shui, New Territories",114.103408,22.4942734
+"N12","Choi Yuen","N1201","Choi Yuen Estate Hall","Choi Yuen Estate, Sheung Shui, New Territories",114.1264568,22.5013326
+"N13","Shek Wu Hui","N1301","Lung Sum Avenue Sports Centre","155 Jockey Club Road, Sheung Shui, New Territories",114.1306804,22.5049775
+"N13","Shek Wu Hui","N1302","SKH Chan Young Secondary School","6 Chi Cheong Road, Sheung Shui, New Territories",114.1328115,22.5009515
+"N13","Shek Wu Hui","N1303","HHCKLA Buddhist Chan Shi Wan Primary School","Yuk Po Court, Sheung Shui, New Territories",114.127361,22.500644
+"N14","Tin Ping West","N1401","Shek Wu Hui Public School","Tin Ping Estate, Sheung Shui, New Territories",114.132424,22.502215
+"N15","Fung Tsui","N1501","Fung Kai Liu Man Shek Tong Secondary School","6 Fung Nam Road, Sheung Shui, New Territories",114.127028,22.5083185
+"N16","Sha Ta","N1601","Ta Ku Ling Ling Ying Public School","Ta Ku Ling Ling Ying Public School, Ta Ku Ling, North District, New Territories, Hong Kong",114.1558258,22.5009081
+"N16","Sha Ta","N1602","International College Hong Kong","60 Sha Tau Kok Road, Shek Chung Au, Sha Tau Kok, New Territories",114.2110905,22.5359935
+"N16","Sha Ta","N1603*","Kut O Village Association","51 Kat O Main Street, Kat O Island, Sha Tau Kok, New Territories",114.2911123,22.5501565
+"N16","Sha Ta","N1604","Sha Tau Kok Central Primary School","Sha Tau Kok Central Primary School, Sha Tau Kok Hui, Sha Tau Kok, New Territories, Hong Kong",114.20324,22.531577
+"N16","Sha Ta","N1605*","Lee's Ancestral Hall","103 Chi Sum Road, Wu Kau Tang Village, Sha Tau Kok, New Territories",114.2413947,22.5066734
+"N16","Sha Ta","N1606","Ta Kwu Ling Community Hall","G/F, Ta Kwu Ling Rural Centre Government Building, 136 Ping Che Road, Ta Kwu Ling, New Territories",114.160609,22.524517
+"N17","Tin Ping East","N1701","Tin Ping Sports Centre","3/F, Tin Ping Shopping Centre, Tin Ping Estate, Sheung Shui, New Territories, HK",114.1260991,22.5112008
+"N17","Tin Ping East","N1702","Luen Wo Hui Community Hall","G/F, 9 Wo Mun Street, Luen Wo Hui, Fanling, New Territories",114.144534,22.499484
+"P01","Tai Po Hui","P0101","Tai Po Community Centre (Exhibition Hall)","2 Heung Sze Wui Street, Tai Po, New Territories",114.165982,22.4467665
+"P02","Tai Po Central","P0201","Tai Po Government Secondary School","12 On Pong Road, Tai Po, New Territories",114.1683091,22.451554
+"P03","Chung Ting","P0301","NTW&JWAL Leung Sing Tak Primary School","Tai Yuen Estate, Tai Po, New Territories",114.170366,22.456168
+"P03","Chung Ting","P0302","HKRSS Tai Po Secondary School","Fu Heng Estate, Tai Po, New Territories",114.171039,22.456213
+"P04","Tai Yuen","P0401","Tai Yuen Community Hall","Tai Yuen Estate, Tai Po, New Territories",114.170366,22.456168
+"P05","Fu Heng","P0501","Fu Heng Neighbourhood Community Centre","Fu Heng Neighbourhood Community Centre",114.1719354,22.4598115
+"P06","Yee Fu","P0601","Fu Shin Community Hall","Fu Shin Estate, Tai Po, New Territories",114.1763995,22.454681
+"P07","Fu Ming Sun","P0701","HKTA The Yuen Yuen Institute No.2 Secondary School","Fu Shin Estate, Tai Po, New Territories",114.1763995,22.454681
+"P08","Kwong Fuk & Plover Cove","P0801","Kwong Fuk Community Hall","Kwong Fuk Estate, Tai Po, New Territories",114.172989,22.446357
+"P08","Kwong Fuk & Plover Cove","P0802","Sung Tak Wong Kin Sheung Memorial School","Tung Cheong Street, Tai Po, New Territories",114.1695736,22.448362
+"P09","Wang Fuk","P0901","Tai Po Baptist Public School","Kwong Fuk Estate, Tai Po, New Territories",114.172989,22.446357
+"P11","Wan Tau Tong","P1101","Wan Tau Tong Neighbourhood Community Centre","Wan Tau Tong Estate, Tai Po, New Territories",114.168907,22.44316
+"P12","San Fu","P1201","Law Ting Pong Secondary School","8 Ma Chung Road, Tai Po, New Territories",114.1652196,22.4431214
+"P12","San Fu","P1202","Norwegian International School","170 Kam Shan Road, Tai Po, New Territories",114.157898,22.4479439
+"P13","Lam Tsuen Valley","P1301","Nam Wah Po Village Tsung Tsin Church","Nam Wah Po Village, Tai Wo Service Road West, Lam Tsuen Valley, Tai Po, New Territories, HK",114.1655064,22.4423218
+"P13","Lam Tsuen Valley","P1302","Lions Club Lam Tsuen Youth Centre","Fong Ma Po, Lam Tsuen, Tai Po, New Territories",114.1739716,22.3708315
+"P13","Lam Tsuen Valley","P1303","Tai Po Tau Shui Wai Village Office","G/F, Tai Po Tau Shui Wai Village Office, Tai Po, New Territories",114.1476767,22.4638268
+"P13","Lam Tsuen Valley","P1304","Tai Hang Public School","Tai Hang Village, Tai Po, New Territories",114.15083,22.469739
+"P14","Po Nga","P1401","Assembly of God Hebron Secondary School","Assembly of God Hebron Secondary School, Po Nga Court, Tai Po, New Territories",114.1611774,22.4505223
+"P16","Old Market & Serenity","P1601","Tai Wo Neighbourhood Community Centre","Tai Wo Estate, Tai Po, New Territories",114.1610278,22.451949
+"P17","Hong Lok Yuen","P1701","Tai Po Sam Yuk Secondary School","2 Tai Po Tau Drive, Tai Po, New Territories",114.1590361,22.4542808
+"P17","Hong Lok Yuen","P1702","Kau Lung Hang Public Yuk Yin School","62 Kau Lung Hang Village, Tai Po, New Territories",114.1476767,22.4638268
+"P17","Hong Lok Yuen","P1703","Conference Room of Hong Lok Yuen Management Services Office","Flat A, 1/F, No.5 Town Centre Crescent, Hong Lok Yuen, Tai Po, New Territories",114.1522091,22.4625737
+"P17","Hong Lok Yuen","P1704","Confucian Tai Shing Ho Kwok Pui Chun College","Fu Shin Estate, Tai Po, New Territories",114.1763995,22.454681
+"P19","Sai Kung North","P1901","Hong Kong Baptist Theological Seminary","1 Nin Ming Road, Sai O, Sai Kung (North), New Territories",114.2542154,22.431375
+"P19","Sai Kung North","P1902*","Sai Kung Country Park Visitor Centre","531 Tai Mong Tsai Road, Pak Tam Chung, Sai Kung, New Territories",114.323794,22.400033
+"P19","Sai Kung North","P1903","Tap Mun Youth Club","Tap Mun, Tai Po, New Territories",114.358999,22.468268
+"Q01","Sai Kung Central","Q0101","The Sai Kung Jockey Club Town Hall","8 Chan Man Street, Sai Kung, New Territories",114.2712469,22.3830135
+"Q01","Sai Kung Central","Q0102","Man Yee Fishermen Village Community Hall","Man Yee Fishermen Estate, 140 Hong Kin Road, Tui Min Hoi, Sai Kung, New Territories",114.2708395,22.3755745
+"Q02","Pak Sha Wan","Q0201","Ex-Sai Kung Central Primary School","Ho Chung, Sai Kung, New Territories",114.245936,22.355211
+"Q04","Hang Hau East","Q0401","Hong Kong and Macau Lutheran Church Primary School","4 Chap Fuk Road, Tseung Kwan O, New Territories",114.2666689,22.319653
+"Q05","Hang Hau West","Q0501","Cheng Chek Chee Secondary School of Sai Kung & Hang Hau District, N.T.","8 Chuk Kok Road, Sai Kung, New Territories",114.257482,22.3431835
+"Q05","Hang Hau West","Q0502","Po Lam Sports Centre","Po Lam Estate, Tseung Kwan O, New Territories",114.2537354,22.3176508
+"Q06","Po Yee","Q0601","Evangel College","7 Chi Shin Street, Tseung Kwan O, New Territories",114.2623762,22.3042712
+"Q07","Wai King","Q0701","HKYWCA Tseung Kwan O Integrated Social Service Centre","Tower 17, Ocean Shores, 88 O King Road, Tiu Keng Leng, Tseung Kwan O, New Territories",114.2528579,22.3037091
+"Q08","Do Shin","Q0801","Hong Kong Design Institute & Hong Kong Institute of Vocational Education (Lee Wai Lee)","3 King Ling Road, Tseung Kwan O, New Territories",114.25345,22.305728
+"Q09","Kin Ming","Q0901","HHCKLA Buddhist Ching Kok Secondary School","38 Chui Ling Road, HK",114.2495211,22.307016
+"Q10","Choi Kin","Q1001","Po Kok Secondary School","Choi Ming Court, 9 Choi Ming Street, Tseung Kwan O, New Territories",114.2528255,22.306737
+"Q11","O Tong","Q1101","POH 80th Anniversary Tang Ying Hei College","2 Tong Yin Lane, Tseung Kwan O, New Territories",114.2586115,22.308906
+"Q12","Fu Kwan","Q1201","YCH Wong Wha San Secondary School","8 Tong Chun Street, Tseung Kwan O, New Territories",114.2598061,22.3093475
+"Q13","Kwan Po","Q1301","Tseung Kwan O Sports Ground","109 Po Hong Road, Tseung Kwan O, New Territories",114.2632676,22.3116561
+"Q14","Nam On","Q1401","PLK Fung Ching Memorial Primary School","2 Pui Shing Road, Tseung Kwan O, New Territories",114.2634525,22.3150849
+"Q15","Hong King","Q1501","Tsui Lam Sports Centre","Tsui Lam Estate, Tseung Kwan O, New Territories",114.2483155,22.3233085
+"Q15","Hong King","Q1502","King Ling College","1 Lam Shing Road, Tseung Kwan O, New Territories",114.253458,22.3183085
+"Q15","Hong King","Q1503","Mission Covenant Church Sister Annie's Kindergarten and Nursery","G/F, Po Tai House, Po Lam Estate, Tseung Kwan O, New Territories",114.2536421,22.3257769
+"Q16","Tsui Lam","Q1601","Tsui Lam Community Hall","Tsui Lam Estate, Tseung Kwan O, New Territories",114.2483155,22.3233085
+"Q17","Po Lam","Q1701","Carmel Divine Grace Foundation Secondary School","Po Lam Estate, Tseung Kwan O, New Territories",114.2537354,22.3176508
+"Q18","Yan Ying","Q1801","Po Lam Multipurpose Hall","Po Lam Estate, Tseung Kwan O, New Territories",114.2537354,22.3176508
+"Q19","Wan Hang","Q1901","STFA Leung Kit Wah Primary School","2 Mau Tai Road, Tseung Kwan O, New Territories",114.2561529,22.3233646
+"Q19","Wan Hang","Q1902","TWGHs Wong Yee Jar Jat Memorial Primary School","8 Hok Lam Lane, Tseung Kwan O, New Territories",114.2594826,22.319295
+"Q20","King Lam","Q2001","HHCKLA Buddhist Wong Cho Sum School","King Lam Estate, 38 Po Lam Road North, Tseung Kwan O, New Territories",114.260312,22.3221715
+"Q21","Hau Tak","Q2101","Catholic Ming Yuen Secondary School","Hau Tak Estate, Tseung Kwan O, New Territories",114.2604425,22.311524
+"Q22","Fu Nam","Q2201","Hang Hau Community Hall","G/F, Sai Kung Tseung Kwan O Government Complex, 38 Pui Shing Road, Hang Hau, Tseung Kwan O, New Territories",114.268128,22.3173205
+"Q24","Sheung Tak","Q2401","Sheung Tak Community Hall","Sheung Mei House, Sheung Tak Estate, Tseung Kwan O, New Territories",114.2566685,22.3112935
+"Q25","Kwong Ming","Q2501","HKTA The Yuen Yuen Institute No.3 Secondary School","Sheung Tak Estate, 2 Tong Ming Street, Tseung Kwan O, New Territories",114.2604425,22.311524
+"Q26","Wan Po North","Q2601","Tseung Kwan O Government Primary School","Hau Tak Estate, Tseung Kwan O, New Territories",114.2604425,22.311524
+"Q26","Wan Po North","Q2602","Lohas Park Community Hall","The Capitol, LOHAS Park, Tseung Kwan O, New Territories",114.271217,22.2965896
+"Q27","Wan Po South","Q2701","The Hong Kong Federation of Youth Groups LOHAS Youth S.P.O.T.","The Capitol, LOHAS Park, 1 Lohas Park Road, Sai Kung, New Territories",114.271217,22.2965896
+"R01","Sha Tin Town Centre","R0101","Sha Tin Town Hall","1 Yuen Wo Road, Sha Tin, New Territories",114.189895,22.381264
+"R01","Sha Tin Town Centre","R0102","Sha Tin Government Secondary School","11-17 Man Lai Road, Sha Tin, New Territories",114.1846486,22.376397
+"R02","Lek Yuen","R0201","Lek Yuen Community Hall","Lek Yuen Estate, Sha Tin, New Territories",114.1918667,22.3853356
+"R03","Wo Che Estate","R0301","Wo Che Community Hall","Podium Level, Wo Che Shopping Centre, Wo Che Estate, Sha Tin, New Territories",114.194839,22.3883527
+"R06","Wong Uk","R0601","Chi Hong Primary School","1 Yuen Cheong Lane, Sha Tin, New Territories",114.1970331,22.3819895
+"R06","Wong Uk","R0602","Belair Gardens Shopping Arcade 1/F Footbridge","Belair Gardens, 52 Tai Chung Kiu Road, Sha Tin, New Territories",114.199319,22.384737
+"R07","Sha Kok","R0701","Buddhist Kok Kwong Secondary School","Sha Kok Estate, Sha Tin, New Territories",114.194756,22.377271
+"R08","Pok Hong","R0801","Pok Hong Community Hall","Pok Hong Estate, Sha Tin, New Territories",114.19503,22.377246
+"R09","Jat Min","R0901","Sha Tin Wai Dr. Catherine F. Woo Memorial School","2 Jat Min Chuen Street, Sha Tin, New Territories",114.191128,22.375551
+"R09","Jat Min","R0902","The Hong Kong Girl Guides Association Pok Hong Camp Site","61 Shui Chuen Au Street, Sha Tin, New Territories",114.195686,22.371475
+"R10","Chun Fung","R1001","Chun Shek Community Hall","Chun Shek Estate, Sha Tin, New Territories",114.187268,22.374379
+"R11","Sun Tin Wai","R1101","Sun Tin Wai Community Hall","Sun Tin Wai Estate, Sha Tin, New Territories",114.189305,22.370668
+"R11","Sun Tin Wai","R1102","Ng Yuk Secondary School","Sun Chui Estate, Tai Wai, Sha Tin, New Territories",114.181835,22.3705304
+"R12","Chui Tin","R1201","Kowloon City Baptist Church Hay Nien (Yan Ping) Primary School","Phase 2, Sun Chui Estate, Tai Wai, Sha Tin, New Territories",114.1736608,22.3697293
+"R13","Hin Ka","R1301","CUHK FAA Thomas Cheung School","CUHKFAA Thomas Cheung School",114.1724997,22.3608008
+"R13","Hin Ka","R1302","Hin Keng Sports Centre","Hin Keng Sports Centre, Hin Keng Estate, Sha Tin, New Territories, HK",114.1974398,22.3771304
+"R14","Lower Shing Mun","R1401","Mei Tin Community Hall","Mei Tin Community Hall",114.1724711,22.3762015
+"R15","Wan Shing","R1501","GCCITKD Lau Pak Lok Secondary School","1 Chik Tai Lane, Tai Wai, Sha Tin, New Territories",114.1755984,22.3725659
+"R15","Wan Shing","R1502","PLK C.W. Chu College","Lung Hang Estate, Tai Wai, Sha Tin, New Territories",114.178722,22.368914
+"R16","Keng Hau","R1601","Hin Keng Neighbourhood Community Centre","5 Hin Wo Lane, Sha Tin, New Territories",114.1748605,22.366681
+"R16","Keng Hau","R1602","Choi Jun School","2 Hin Tai Street, Sha Tin, New Territories",114.1767861,22.3632744
+"R18","Chui Ka","R1801","GCCITKD Cheong Wong Wai Primary School","2 Chui Tin Street, Sun Chui Estate, Sha Tin, New Territories",114.181835,22.3705304
+"R19","Tai Wai","R1901","Buddhist Wong Wan Tin College","Mei Lam Estate, Tai Wai, Sha Tin, New Territories",114.17844,22.377217
+"R19","Tai Wai","R1902","Tai Wai Village Office","Chik Fuk Street, Tai Wai, Sha Tin, New Territories",114.179372,22.375381
+"R20","Chung Tin","R2001","Mei Lam Sports Centre","Mei Lam Estate Phase 3, Tai Wai, Sha Tin, New Territories",114.1736608,22.3697293
+"R20","Chung Tin","R2002","ELCHK Shatin Lutheran Kindergarten","1 Tung Lo Wan Hill Road, Tai Wai, Sha Tin, New Territories",114.1803306,22.3784012
+"R21","Sui Wo","R2101","PLK Siu Hon Sum Primary School","Area 42A, Sui Wo Court, Sha Tin, New Territories",114.1909775,22.3938608
+"R22","Fo Tan","R2201","Jockey Club Ti-I College","5-7 Lok King Street, Fo Tan, Sha Tin, New Territories",114.1981837,22.3931561
+"R23","Chun Ma","R2301","John Fulton Centre, The Chinese University of Hong Kong","Room 309, John Fulton Centre, The Chinese University of Hong Kong, Sha Tin, New Territories",114.20383,22.417534
+"R23","Chun Ma","R2302","Yan Oi Tong H.K. Toi Shan Association Elderly Centre","G/F, 1 Tsun King Road, Royal Ascot, Fo Tan, Sha Tin, New Territories",114.202788,22.401723
+"R24","Chung On","R2401","Christian Alliance Toi Shan H. C. Chan Primary School","Chung On Estate, Ma On Shan, Sha Tin, New Territories",114.228524,22.423201
+"R25","Kam To","R2501","CUHKFAA Chan Chun Ha Secondary School","632 Sai Sha Road, Chung On Estate, Ma On Shan, Sha Tin, New Territories",114.2277255,22.4232565
+"R26","Ma On Shan Town Centre","R2601","Hong Kong Taoist Association Shun Yeung Primary School","30 On Chun Street, Ma On Shan, Sha Tin, New Territories",114.2282872,22.4262524
+"R27","Lee On","R2701","Ma On Shan Ling Liang Primary School","Lee On Estate, Ma On Shan, Sha Tin, New Territories",114.241349,22.427814
+"R28","Fu Lung","R2801","Caritas Ma On Shan Secondary School","2 Kam Ying Road, Ma On Shan, Sha Tin, New Territories",114.2390941,22.425517
+"R29","Wu Kai Sha","R2901","Lee On Community Hall","Lee On Community Services Complex, 23 Sha On Street, Ma On Shan, Sha Tin, New Territories",114.2409519,22.4264939
+"R30","Kam Ying","R3001","Ng Clan's Association Tai Pak Memorial School","Kam Ying Court, Ma On Shan, Sha Tin, New Territories",114.2366913,22.4237158
+"R30","Kam Ying","R3002","TWGHs Wong Fung Ling College","208 Ma On Shan Road, Ma On Shan, Sha Tin, New Territories",114.2343401,22.4233785
+"R31","Yiu On","R3101","PLK Chong Kee Ting Primary School","Yiu On Estate, Ma On Shan, Sha Tin, New Territories",114.229297,22.418851
+"R32","Heng On","R3201","Ma On Shan St. Joseph's Primary School","Estate Primary School No.1, Heng On Estate, Ma On Shan, Sha Tin, New Territories",114.2402751,22.4276756
+"R32","Heng On","R3202","Heng On Estate Community Centre","Heng On Estate, Ma On Shan, Sha Tin, New Territories",114.230473,22.417984
+"R33","On Tai","R3301","Tak Sun Secondary School","27 Ning Tai Road, Ma On Shan, Sha Tin, New Territories",114.2219951,22.4103776
+"R34","Tai Shui Hang","R3401","Kowloon City Baptist Church Hay Nien Primary School","Chevalier Garden, 3 Hang Shun Street, Ma On Shan, Sha Tin, New Territories",114.223821,22.4039719
+"R34","Tai Shui Hang","R3402","The ELCHK Ma On Shan Lutheran Primary School","Estate Primary School No.2, Heng On Estate, Ma On Shan, Sha Tin, New Territories",114.2402751,22.4276756
+"R36","Bik Woo","R3601","Leung Kui Kau Lutheran Primary School","5 On King Street, Sha Tin, New Territories",114.2057695,22.3921675
+"R36","Bik Woo","R3602","Hong Kong Baptist University Affiliated School Wong Kam Fai Secondary and Primary School","6 On Muk Lane, Shek Mun, Sha Tin, New Territories",114.2091255,22.3868819
+"R37","Kwong Hong","R3701","Shatin Methodist Primary School","Shatin Methodist Primary School, Shatin, New Territories",114.2145997,22.3801467
+"R38","Kwong Yuen","R3801","Kwong Yuen Community Hall","Kwong Yuen Estate, Sha Tin, New Territories",114.214906,22.382764
+"S01","Kwai Hing","S0101","CNEC Ta Tung School","Kwai Hing Estate, Kwai Chung, New Territories",114.130745,22.35967
+"S02","Kwai Shing East Estate","S0201","ELCHK Kwai Shing Lutheran Primary School","Kwai Shing East Estate, Kwai Chung, New Territories",114.1271906,22.3642115
+"S03","Upper Tai Wo Hau","S0301","Yan Oi Tong Pang Hung Cheung Kindergarten","G/F, Fu Tai House, Tai Wo Hau Estate, Tsuen Wan, New Territories",114.1226154,22.3659664
+"S04","Lower Tai Wo Hau","S0401","Buddhist Lam Bing Yim Memorial School (Sponsored by the Hong Kong Buddhist Association)","33 Tai Ha Street, Tsuen Wan, New Territories",114.1235964,22.3696752
+"S05","Kwai Chung Estate North","S0501","CCC Chuen Yuen College","15 Sheung Kok Street, Kwai Chung Estate, Kwai Chung, New Territories",114.1280495,22.3688515
+"S06","Kwai Chung Estate South","S0601","CCC Chuen Yuen Kindergarten","Kwai Chung Estate, Kwai Chung, New Territories",114.130358,22.368266
+"S06","Kwai Chung Estate South","S0602","SKH Yan Laap Primary School","399 Kwai Shing Circuit, Kwai Chung, New Territories",114.1305189,22.3654406
+"S07","Shek Yam","S0701","SKH Chu Oi Primary School","45 Tung Chi Street, Shek Yam, Kwai Chung, New Territories",114.1397529,22.3709356
+"S08","On Yam","S0801","Salesian Yip Hon Primary School","On Yam Estate, Kwai Chung, New Territories",114.141568,22.369013
+"S09","Shek Lei South","S0901","Shek Lei (I) Estate Indoor Activity Room","Shek Lei (I) Estate Car Park",114.1541325,22.3356629
+"S10","Shek Lei North","S1001","Shek Lei Community Hall","2 Tai Pak Tin Street, Kwai Chung, New Territories",114.1392869,22.3665805
+"S11","Tai Pak Tin","S1101","HKTA The Yuen Yuen Institute No.1 Secondary School","42 Wo Yi Hop Road, Kwai Chung, New Territories",114.1382619,22.3664785
+"S12","Kwai Fong","S1201","Buddhist Lim Kim Tian Memorial Primary School","Buddhist Lim Kim Tian Memorial Primary School, Kwai Chung, New Territories",114.1290254,22.3587638
+"S13","Wah Lai","S1301","G/F, Conference Room, Northern Car Park, Wonderland Villas","Wonderland Villas, 9 Wah King Hill Road, Kwai Chung, New Territories",114.135685,22.354282
+"S13","Wah Lai","S1302","Carmel Alison Lam Foundation Secondary School","4 Wah King Hill Road, Kwai Chung, New Territories",114.1336865,22.3506784
+"S13","Wah Lai","S1303","TWGHs Ko Ho Ning Memorial Primary School","TWGHs Ko Ho Ning Memorial Primary School, Kwai Chung, New Territories, HK",114.1302591,22.3668502
+"S15","Cho Yiu","S1501","The HKSYC&IA Chan Nam Chong Memorial College","12 King Cho Road, Cho Yiu Chuen, Kwai Chung, New Territories",114.1283495,22.3455825
+"S16","Hing Fong","S1601","Kwai Fong Community Hall","2 Lai Fong Street, Kwai Chung, New Territories",114.127283,22.3596272
+"S18","Kwai Shing West Estate","S1801","Kwai Shing Community Hall","Kwai Shing Community Hall, New Territories",114.1215814,22.3613389
+"S19","On Ho","S1901","Delia (Man Kiu) English Primary School","Phase 2, Cheung On Estate, Tsing Yi, New Territories",114.1106972,22.3476872
+"S19","On Ho","S1902","CCC Yenching College","12 Nga Ying Chau Street, Tsing Yi, New Territories",114.1053389,22.3624056
+"S21","Tsing Yi Estate","S2101","Tsuen Wan Trade Association Primary School","Phase 1, Area 1, Tsing Yi Estate, Tsing Yi, New Territories",114.1106972,22.3476872
+"S22","Greenfield","S2201","TWGHs S. C. Gaw Memorial College","7 Tsing Sum Street, Town Centre, Tsing Yi, New Territories",114.1106972,22.3476872
+"S22","Greenfield","S2202","PLK Castar Primary School","23 Tsing Luk Street, Tsing Yi, New Territories",114.1065458,22.3547264
+"S23","Cheung Ching","S2301","Cheung Ching Estate Community Centre","6 Ching Hong Road, Tsing Yi, New Territories",114.1069051,22.3488235
+"S23","Cheung Ching","S2302","Study Room, Mayfair Gardens","Study Room, L3, Block 11, Mayfair Gardens, 2-16 Sai Shan Road, Tsing Yi, New Territories",114.107532,22.3445004
+"S25","Shing Hong","S2501","Lok Sin Tong Leung Chik Wai Memorial School","Phase 5, Cheung Hong Estate, Tsing Yi, New Territories",114.1106972,22.3476872
+"S26","Tsing Yi South","S2601","Rambler Crest Club House","Tower 1, 1 Tsing Yi Road, Tsing Yi, New Territories",114.1102374,22.3434869
+"S26","Tsing Yi South","S2602","SKH Tsing Yi Chu Yan Primary School","Cheung Wang Estate, Tsing Yi, New Territories",114.0968815,22.3565856
+"S27","Cheung Hang","S2701","Cheung Hang Community Hall","Cheung Hang Estate, Phase II, Tsing Yi, New Territories",114.1106972,22.3476872
+"S28","Ching Fat","S2801","Cheung Fat Estate Community Centre","6 Tam Kon Shan Road, Tsing Yi, New Territories",114.1032454,22.3625189
+"S29","Cheung On","S2901","CNEC Lui Ming Choi Primary School","Cheung Fat Estate, Tsing Yi, New Territories",114.1037506,22.3631331
+"T01","Lantau","T0101","CCC Tai O Primary School","24-26 Market Street, Tai O, Lantau Island, New Territories",113.8617886,22.2543786
+"T01","Lantau","T0102*","Sha Lo Wan Village Office","17 Chung Hou, Sha Lo Wan, Lantau Island, New Territories",113.9179589,22.2478472
+"T01","Lantau","T0103*","Tai O San Tau Village Village Office","Flat 2D, San Tau Village, Tai O, Lantau Island, New Territories",113.9179589,22.2478472
+"T01","Lantau","T0104","Auxiliary Medical Service Tung Chung Training Centre","1 Ha Ling Pei, Tung Chung, Lantau Island, New Territories",113.9401086,22.2576167
+"T01","Lantau","T0105*","Ngau Kwu Long Sam Heung Co-operative Society","25 Tai Ho San Tsuen, Lantau Island, New Territories",113.9503349,22.2360438
+"T01","Lantau","T0106*","Tai O Room, Po Lin Monastery","Po Lin Monastery, Ngong Ping Road, Ngong Ping, Lantau Island, New Territories",113.9034617,22.2554274
+"T01","Lantau","T0107","Mui Wo Sports Centre","1/F, Mui Wo Municipal Services Building, 9 Ngan Shek Street, Lantau Island, New Territories",113.9965449,22.2670149
+"T01","Lantau","T0108","Tong Fuk Village Office","G/F, 33 Tong Fuk, South Lantau Road, Lantau Island, New Territories",113.9597319,22.2336696
+"T01","Lantau","T0109","Bui O Public School","2 Lo Uk Village, Pui O, Lantau Island, New Territories",113.9179589,22.2478472
+"T02","Yat Tung Estate North","T0201","Tung Chung Catholic School","Yat Tung (2) Estate, 8 Yat Tung Street, Tung Chung, Lantau Island, New Territories",113.937757,22.2818655
+"T03","Yat Tung Estate South","T0301","HKFEW Wong Cho Bau School","Yat Tung (1) Estate, Tung Chung, Lantau Island, New Territories",113.9345727,22.2810326
+"T04","Tung Chung North","T0401","Tung Chung Community Hall","G/F, Tung Chung Municipal Services Building, 39 Man Tung Road, Tung Chung, Lantau Island, New Territories",113.943785,22.2905445
+"T05","Tung Chung South","T0501","HKFEW Wong Cho Bau Secondary School","Area 10, Phase 3, Fu Tung Estate, Tung Chung, Lantau Island, New Territories",113.9425086,22.2873743
+"T06","Discovery Bay","T0601","SKH Wei Lun Primary School","Area 13, Discovery Bay, Lantau Island, New Territories",114.0101467,22.2921406
+"T09","Cheung Chau South","T0901","Buddhist Wai Yan Memorial College","25 Tai Hing Tai Road, Cheung Chau, New Territories",114.0261166,22.2050958
+"T09","Cheung Chau South","T0902","Caritas Chan Chun Ha Field Studies Centre (St. Paul Campus)","C.C. Lot No.1139, Lung Tsai Tsuen, Cheung Chau, New Territories",114.030273,22.2040455
+"T10","Cheung Chau North","T1001","Cheung Chau Sports Centre","3 Cheung Chau Hospital Road, Cheung Chau, New Territories",114.0311221,22.2075465
+"T10","Cheung Chau North","T1002","Kwok Man School","30 Kwok Man Road, Cheung Chau, New Territories",114.0294314,22.2108114
